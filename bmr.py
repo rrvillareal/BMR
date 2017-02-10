@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Mon Jan 30 14:03:58 2017
-Robert Villareal
-HW 1
-Due:2/2/2017
-"""
 
 def main():    
      metric = int(input("If used metric system press 1, if not press 2."))
